@@ -1,0 +1,121 @@
+@media screen and (max-width: 1600px) {
+
+  .get_button_already_have {
+    width: 80%;
+  }
+  .first_page_button_1 {
+    width: 100%;
+  }
+  .button_already_have_account {
+    width: 100%;
+  }
+   .site {
+    display: none;
+  }
+}  
+
+
+
+
+@media screen and (max-width: 1400px) {
+
+  .site {
+    display: none;
+  }
+}
+
+@media screen and (max-width: 1200px) {
+  .site {
+    display: none;
+  }
+  
+}
+
+
+
+
+
+@media screen and (max-width: 1024px) {
+  
+  .image_icon {
+    justify-content: center;
+  }
+  .site {
+    display: none;
+  }
+
+  .get_button_already_have {
+    width: 60%;
+  }
+  .first_page_button_1 {
+    width: 100%;
+  }
+  .button_already_have_account {
+    width: 100%;
+  }
+} 
+
+
+
+
+
+@media screen and (max-width: 992px) {
+  
+
+  .site {
+    display: none;
+  }
+  .get_button_already_have {
+    width: 80%;
+  }
+  .first_page_button_1 {
+    width: 100%;
+  }
+  .button_already_have_account {
+    width: 100%;
+  }
+
+  .first_column{
+    display: flex !important;
+    align-items: center   !important;
+  }
+}
+
+
+
+@media screen and (max-width: 768px) {
+
+  .site {
+    display: none;
+  }
+  .get_button_already_have {
+    width: 100%;
+  }
+  .first_page_button_1 {
+    width: 100%;
+  }
+  .button_already_have_account {
+    width: 100%;
+  }
+
+}
+
+
+
+
+@media screen and (max-width: 576px) {
+  
+  .site {
+    display: none;
+  }
+  .get_button_already_have {
+    width: 100%;
+  }
+  .first_page_button_1 {
+    width: 100%;
+  }
+  .button_already_have_account {
+    width: 100%;
+  }
+  
+}
